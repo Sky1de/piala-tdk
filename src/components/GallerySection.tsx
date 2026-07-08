@@ -28,7 +28,7 @@ export default function GallerySection({ currentLang }: GallerySectionProps) {
   const galleryItems: GalleryItem[] = [
     {
       id: 'g1',
-      src: '/src/assets/images/piala_interior_1783533662041.jpg',
+      src: '/piala_interior_1783533662041.jpg',
       alt: 'Интерьер ресторана PIALA',
       altKz: 'PIALA мейрамханасының интерьері',
       category: 'interior',
@@ -39,7 +39,7 @@ export default function GallerySection({ currentLang }: GallerySectionProps) {
     },
     {
       id: 'g2',
-      src: '/src/assets/images/piala_dish_fusion_1783533682456.jpg',
+      src: '/piala_dish_fusion_1783533682456.jpg',
       alt: 'Казахский Фьюжн Бешбармак',
       altKz: 'Қазақ Фьюжн Бесбармағы',
       category: 'dishes',
@@ -50,7 +50,7 @@ export default function GallerySection({ currentLang }: GallerySectionProps) {
     },
     {
       id: 'g3',
-      src: '/src/assets/images/piala_tea_service_1783533700668.jpg',
+      src: '/piala_tea_service_1783533700668.jpg',
       alt: 'Фирменная подача чая "Алтын Пиала"',
       altKz: '"Алтын Пиала" фирмалық шай ұсынысы',
       category: 'dishes',
@@ -61,7 +61,7 @@ export default function GallerySection({ currentLang }: GallerySectionProps) {
     },
     {
       id: 'g4',
-      src: '/src/assets/images/piala_dessert_1783533719035.jpg',
+      src: '/piala_dessert_1783533719035.jpg',
       alt: 'Шоколадная пиала с жидкой облепихой',
       altKz: 'Сұйық шырғанақпен шоколадты пиала',
       category: 'dishes',
