@@ -34,7 +34,7 @@ export default function Hero({ currentLang }: HeroProps) {
       {/* Background Image with elegant vignette and dark overlay */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/src/assets/images/piala_interior_1783533662041.jpg"
+          src="/piala_interior_1783533662041.jpg"
           alt="PIALA Restaurant Interior"
           className="w-full h-full object-cover scale-105 filter brightness-[0.35] contrast-[1.05]"
           referrerPolicy="no-referrer"
