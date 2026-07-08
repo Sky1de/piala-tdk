@@ -83,7 +83,7 @@ export default function PhilosophySection({ currentLang }: PhilosophySectionProp
               {/* Main Image */}
               <div className="relative z-10 rounded-none overflow-hidden shadow-2xl border border-gold-500/25 bg-emerald-900 aspect-square">
                 <img
-                  src="/images/piala_tea_service_1783533700668.jpg"
+                  src="/piala_tea_service_1783533700668.jpg"
                   alt="Traditional Tea Service in Gold Piala"
                   className="w-full h-full object-cover hover:scale-105 transition-transform duration-700 filter contrast-[1.02]"
                   referrerPolicy="no-referrer"
