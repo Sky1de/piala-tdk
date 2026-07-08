@@ -2,10 +2,10 @@ import { MenuItem, Table, Landmark, Review } from './types';
 
 // Let's use the actual generated images
 export const IMAGES = {
-  interior: '/src/assets/images/piala_interior_1783533662041.jpg',
-  fusionDish: '/src/assets/images/piala_dish_fusion_1783533682456.jpg',
-  teaService: '/src/assets/images/piala_tea_service_1783533700668.jpg',
-  dessert: '/src/assets/images/piala_dessert_1783533719035.jpg',
+  interior: '/piala_interior_1783533662041.jpg',
+  fusionDish: '/piala_dish_fusion_1783533682456.jpg',
+  teaService: '/piala_tea_service_1783533700668.jpg',
+  dessert: '/piala_dessert_1783533719035.jpg',
 };
 
 export const MENU_ITEMS: MenuItem[] = [
