@@ -1,0 +1,6 @@
+{
+  "name": "PIALA Restaurant",
+  "description": "Premium dining restaurant in Taldykorgan, Kazakhstan. Exquisite Kazakh-fusion cuisine, elegant dark green and gold interiors, and premium atmosphere.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
